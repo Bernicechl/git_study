@@ -1,4 +1,4 @@
-mastertest
+bernicechl
 # 欢迎使用Markdown编辑器写博客
 
 本Markdown编辑器使用[StackEdit][6]修改而来，用它写博客，将会带来全新的体验哦：
@@ -33,7 +33,7 @@ mastertest
 
 > Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。    —— <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank"> [ 维基百科 ]
 
-使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，创建$ git log --graph --pretty=oneline --abbrev-commit$ git log --graph --pretty=oneline --abbrev-commit$ git log --graph --pretty=oneline --abbrev-commit$ git log --graph --pretty=oneline --abbrev-commit$ git log --graph --pretty=oneline --abbrev-commit$ git log --graph --pretty=oneline --abbrev-commit一个[链接](http://www.csdn.net)等，详细语法参$ git log --graph --pretty=oneline --abbrev-commit考帮助？。
+使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*等，详细语法参考帮助？。
 
 本编辑器支持 **Markdown Extra** , 　扩展了很多好用的功能。具体请参考[Github][2].  
 
